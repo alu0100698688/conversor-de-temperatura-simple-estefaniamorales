@@ -1,4 +1,4 @@
-# ETSII ULL Grado de Informatica
+# ETSII ULL Grado de Informática
 
 ## Práctica: Conversor en JavaScript de grados Celsius a Farenheit y viceversa
 
@@ -9,13 +9,9 @@
 * Expresiones Regulares
 * Un poquito de CSS
 * Uso de Emmet (instale el plugin para su editor)
-* Uso de Mocha y Chai 
-* Uso de Gulp
 
-### Despliegue en github.io
+### Enlace página donde se alojan las prácticas de la asignatura
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
+* [Web de las prácticas](http://alu0100698688.github.io/web/)
 
-### Ejecutar las pruebas
-
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html)
+### Enlace a la práctica
